@@ -1,6 +1,7 @@
 # from https://www.acmicpc.net/problem/15655
 
 import sys
+
 N, M = map(int, sys.stdin.readline().split())
 input_list = list(map(int, sys.stdin.readline().split()))
 input_list.sort()
