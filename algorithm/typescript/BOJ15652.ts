@@ -14,7 +14,7 @@ for (let i = 0; i < N; i++) {
   inputList.push(i + 1);
 }
 
-function	combination(cnt: number, start: number): void { 
+function combination(cnt: number, start: number): void { 
   if (cnt == M) {
     for (let i = 0; i < M; i++) {
       result.push(`${outputList[i]} `);
