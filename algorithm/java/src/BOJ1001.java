@@ -1,3 +1,5 @@
+// from https://www.acmicpc.net/problem/1001
+
 import java.util.Scanner;
 
 public class BOJ1001 {
