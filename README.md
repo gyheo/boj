@@ -4,6 +4,7 @@ Baekjoon Online Judge 문제 Solution
 ## 목록
 |번호|문제|Java|Python|TypeScript|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
+|15655|[N과 M (6)](https://www.acmicpc.net/problem/15655) | [:white_check_mark:](algorithm/java/src/BOJ15655.java) | [:white_check_mark:](algorithm/python/BOJ15655.py) | [:white_check_mark:](algorithm/typescript/BOJ15655.ts)
 |15654|[N과 M (5)](https://www.acmicpc.net/problem/15654) | [:white_check_mark:](algorithm/java/src/BOJ15654.java) | [:white_check_mark:](algorithm/python/BOJ15654.py) | [:white_check_mark:](algorithm/typescript/BOJ15654.ts)
 |15652|[N과 M (4)](https://www.acmicpc.net/problem/15652) | [:white_check_mark:](algorithm/java/src/BOJ15652.java) | [:white_check_mark:](algorithm/python/BOJ15652.py) | [:white_check_mark:](algorithm/typescript/BOJ15652.ts)
 |15651|[N과 M (3)](https://www.acmicpc.net/problem/15651) | [:white_check_mark:](algorithm/java/src/BOJ15651.java) | [:white_check_mark:](algorithm/python/BOJ15651.py) | [:white_check_mark:](algorithm/typescript/BOJ15651.ts)
