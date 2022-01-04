@@ -1,4 +1,4 @@
-// from https://www.acmicpc.net/submit/15657
+// problem : https://www.acmicpc.net/problem/15657
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
