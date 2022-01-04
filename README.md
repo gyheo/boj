@@ -4,6 +4,8 @@ Baekjoon Online Judge 문제 Solution
 ## 목록
 |번호|문제|Java|Python|TypeScript|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
+|15657|[N과 M (8)](https://www.acmicpc.net/problem/15657) | [:white_check_mark:](algorithm/java/src/BOJ15657.java) | [:white_check_mark:](algorithm/python/BOJ15657.py) | [:white_check_mark:](algorithm/typescript/BOJ15657.ts)
+|15656|[N과 M (7)](https://www.acmicpc.net/problem/15656) | [:white_check_mark:](algorithm/java/src/BOJ15656.java) | [:white_check_mark:](algorithm/python/BOJ15656.py) | [:white_check_mark:](algorithm/typescript/BOJ15656.ts)
 |15655|[N과 M (6)](https://www.acmicpc.net/problem/15655) | [:white_check_mark:](algorithm/java/src/BOJ15655.java) | [:white_check_mark:](algorithm/python/BOJ15655.py) | [:white_check_mark:](algorithm/typescript/BOJ15655.ts)
 |15654|[N과 M (5)](https://www.acmicpc.net/problem/15654) | [:white_check_mark:](algorithm/java/src/BOJ15654.java) | [:white_check_mark:](algorithm/python/BOJ15654.py) | [:white_check_mark:](algorithm/typescript/BOJ15654.ts)
 |15652|[N과 M (4)](https://www.acmicpc.net/problem/15652) | [:white_check_mark:](algorithm/java/src/BOJ15652.java) | [:white_check_mark:](algorithm/python/BOJ15652.py) | [:white_check_mark:](algorithm/typescript/BOJ15652.ts)
@@ -17,6 +19,7 @@ Baekjoon Online Judge 문제 Solution
 |1620|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [:white_check_mark:](algorithm/java/src/BOJ1620.java) | [:white_check_mark:](algorithm/python/BOJ1620.py) | [:white_check_mark:](algorithm/typescript/BOJ1620.ts)
 |1330|[두 수 비교하기](https://www.acmicpc.net/problem/1330) | [:white_check_mark:](algorithm/java/src/BOJ1330.java) | [:white_check_mark:](algorithm/python/BOJ1330.py) | [:white_check_mark:](algorithm/typescript/BOJ1330.ts)
 |1260|[DFS와 BFS](https://www.acmicpc.net/problem/1260) | [:white_check_mark:](algorithm/java/src/BOJ1260.java) | [:white_check_mark:](algorithm/python/BOJ1260.py) | [:white_check_mark:](algorithm/typescript/BOJ1260.ts)
+|1026|[보물](https://www.acmicpc.net/problem/1026) | [:white_check_mark:](algorithm/java/src/BOJ1026.java) | [:white_check_mark:](algorithm/python/BOJ1026.py) | [:white_check_mark:](algorithm/typescript/BOJ1026.ts)
 |1008|[A/B](https://www.acmicpc.net/problem/1008) | [:white_check_mark:](algorithm/java/src/BOJ1008.java) | [:white_check_mark:](algorithm/python/BOJ1008.py) | [:white_check_mark:](algorithm/typescript/BOJ1008.ts)
 |1001|[A-B](https://www.acmicpc.net/problem/1001) | [:white_check_mark:](algorithm/java/src/BOJ1001.java) | [:white_check_mark:](algorithm/python/BOJ1001.py) | [:white_check_mark:](algorithm/typescript/BOJ1001.ts)
 |1000|[A+B](https://www.acmicpc.net/problem/1000) | [:white_check_mark:](algorithm/java/src/BOJ1000.java) | [:white_check_mark:](algorithm/python/BOJ1000.py) | [:white_check_mark:](algorithm/typescript/BOJ1000.ts)
