@@ -13,13 +13,7 @@ for i in range(0, N):
 for i in range(0, M):
     name = sys.stdin.readline().rstrip()
     if name_dict.get(name) != None:
-        name_dict[name] = name_dict.get(name) + 1
-
-        if name_dict[name] >= 2:
-            result.append(name)
-
-    else:
-        name_dict[name] = 1
+        result.append(name)
 
 result.sort()
 print(len(result))
