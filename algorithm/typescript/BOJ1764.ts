@@ -15,13 +15,7 @@ for (let i = 1; i <= N; i++) {
 
 for (let i = N + 1; i <= N + M; i++) {
   if (map.has(input[i])) {
-    map.set(input[i], map.get(input[i]) + 1);
-
-    if (map.get(input[i]) >= 2) {
-      result.push(input[i]);
-    }
-  } else {
-    map.set(input[i], 1);
+    result.push(input[i]);
   }
 }
 
