@@ -27,9 +27,7 @@ public class BOJ1764 {
 
         for (int i = 0; i < M; i++) {
             String name = br.readLine();
-            hashMap.put(name, hashMap.getOrDefault(name, 0) + 1);
-
-            if (hashMap.get(name) >= 2) {
+            if (hashMap.containsKey(name)) {
                 list.add(name);
             }
         }
