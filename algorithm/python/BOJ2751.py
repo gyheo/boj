@@ -4,6 +4,7 @@ import sys
 
 N = int(sys.stdin.readline().rstrip())
 arr = list()
+
 for i in range(0, N):
     arr.append(int(sys.stdin.readline().rstrip()))
 
