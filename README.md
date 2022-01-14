@@ -23,6 +23,7 @@ Baekjoon Online Judge 문제 Solution
 |2750|[수 정렬하기](https://www.acmicpc.net/problem/2750) | [:white_check_mark:](algorithm/java/src/BOJ2750.java) | [:white_check_mark:](algorithm/python/BOJ2750.py) | [:white_check_mark:](algorithm/typescript/BOJ2750.ts)
 |2742|[기찍 N](https://www.acmicpc.net/problem/2742) | [:white_check_mark:](algorithm/java/src/BOJ2742.java) | [:white_check_mark:](algorithm/python/BOJ2742.py) | [:white_check_mark:](algorithm/typescript/BOJ2742.ts)
 |2577|[숫자의 개수](https://www.acmicpc.net/problem/2577) | [:white_check_mark:](algorithm/java/src/BOJ2577.java) | [:white_check_mark:](algorithm/python/BOJ2577.py) | [:white_check_mark:](algorithm/typescript/BOJ2577.ts)
+|2562|[최댓값](https://www.acmicpc.net/problem/2562) | [:white_check_mark:](algorithm/java/src/BOJ2562.java) | [:white_check_mark:](algorithm/python/BOJ2562.py) | [:white_check_mark:](algorithm/typescript/BOJ2562.ts)
 |2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [:white_check_mark:](algorithm/java/src/BOJ2309.java) | [:white_check_mark:](algorithm/python/BOJ2309.py) | [:white_check_mark:](algorithm/typescript/BOJ2309.ts)
 |1764|[듣보잡](https://www.acmicpc.net/problem/1764) | [:white_check_mark:](algorithm/java/src/BOJ1764.java) | [:white_check_mark:](algorithm/python/BOJ1764.py) | [:white_check_mark:](algorithm/typescript/BOJ1764.ts)
 |1620|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [:white_check_mark:](algorithm/java/src/BOJ1620.java) | [:white_check_mark:](algorithm/python/BOJ1620.py) | [:white_check_mark:](algorithm/typescript/BOJ1620.ts)
