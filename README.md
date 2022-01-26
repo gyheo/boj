@@ -1,4 +1,4 @@
-# BOJ  
+## BOJ  
 Baekjoon Online Judge 문제 Solution
 
 ## 목록
