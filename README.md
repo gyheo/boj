@@ -1,7 +1,9 @@
-## BOJ  
+# BOJ
+
 Baekjoon Online Judge 문제 Solution
 
 ## 목록
+
 |번호|문제|Java|Python|TypeScript|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |17219|[비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [:white_check_mark:](algorithm/java/src/BOJ17219.java) | [:white_check_mark:](algorithm/python/BOJ17219.py) | [:white_check_mark:](algorithm/typescript/BOJ17219.ts)
@@ -26,6 +28,7 @@ Baekjoon Online Judge 문제 Solution
 |10818|[최소, 최대](https://www.acmicpc.net/problem/10818) | [:white_check_mark:](algorithm/java/src/BOJ10818.java) | [:white_check_mark:](algorithm/python/BOJ10818.py) | [:white_check_mark:](algorithm/typescript/BOJ10818.ts)
 |10816|[숫자 카드 2](https://www.acmicpc.net/problem/10816) | [:white_check_mark:](algorithm/java/src/BOJ10816.java) | [:white_check_mark:](algorithm/python/BOJ10816.py) | [:white_check_mark:](algorithm/typescript/BOJ10816.ts)
 |10815|[숫자 카드](https://www.acmicpc.net/problem/10815) | [:white_check_mark:](algorithm/java/src/BOJ10815.java) | [:white_check_mark:](algorithm/python/BOJ10815.py) | [:white_check_mark:](algorithm/typescript/BOJ10815.ts)
+|8958|[OX퀴즈](https://www.acmicpc.net/problem/8958) | [:white_check_mark:](algorithm/java/src/BOJ8958.java) | [:white_check_mark:](algorithm/python/BOJ8958.py) | [:white_check_mark:](algorithm/typescript/BOJ8958.ts)
 |3040|[백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [:white_check_mark:](algorithm/java/src/BOJ3040.java) | [:white_check_mark:](algorithm/python/BOJ3040.py) | [:white_check_mark:](algorithm/typescript/BOJ3040.ts)
 |2751|[수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [:white_check_mark:](algorithm/java/src/BOJ2751.java) | [:white_check_mark:](algorithm/python/BOJ2751.py) | [:white_check_mark:](algorithm/typescript/BOJ2751.ts)
 |2750|[수 정렬하기](https://www.acmicpc.net/problem/2750) | [:white_check_mark:](algorithm/java/src/BOJ2750.java) | [:white_check_mark:](algorithm/python/BOJ2750.py) | [:white_check_mark:](algorithm/typescript/BOJ2750.ts)
@@ -46,4 +49,5 @@ Baekjoon Online Judge 문제 Solution
 |1000|[A+B](https://www.acmicpc.net/problem/1000) | [:white_check_mark:](algorithm/java/src/BOJ1000.java) | [:white_check_mark:](algorithm/python/BOJ1000.py) | [:white_check_mark:](algorithm/typescript/BOJ1000.ts)
 
 ## Reference
+
 [Baekjoon Online Judge](https://www.acmicpc.net/)
