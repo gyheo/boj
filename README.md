@@ -37,6 +37,7 @@ Baekjoon Online Judge 문제 Solution
 |2577|[숫자의 개수](https://www.acmicpc.net/problem/2577) | [:white_check_mark:](algorithm/java/src/BOJ2577.java) | [:white_check_mark:](algorithm/python/BOJ2577.py) | [:white_check_mark:](algorithm/typescript/BOJ2577.ts)
 |2562|[최댓값](https://www.acmicpc.net/problem/2562) | [:white_check_mark:](algorithm/java/src/BOJ2562.java) | [:white_check_mark:](algorithm/python/BOJ2562.py) | [:white_check_mark:](algorithm/typescript/BOJ2562.ts)
 |2558|[A+B - 2](https://www.acmicpc.net/problem/2558) | [:white_check_mark:](algorithm/java/src/BOJ2558.java) | [:white_check_mark:](algorithm/python/BOJ2558.py) | [:white_check_mark:](algorithm/typescript/BOJ2558.ts)
+|2439|[별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [:white_check_mark:](algorithm/java/src/BOJ2439.java) | [:white_check_mark:](algorithm/python/BOJ2439.py) | [:white_check_mark:](algorithm/typescript/BOJ2439.ts)
 |2438|[별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [:white_check_mark:](algorithm/java/src/BOJ2438.java) | [:white_check_mark:](algorithm/python/BOJ2438.py) | [:white_check_mark:](algorithm/typescript/BOJ2438.ts)
 |2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [:white_check_mark:](algorithm/java/src/BOJ2309.java) | [:white_check_mark:](algorithm/python/BOJ2309.py) | [:white_check_mark:](algorithm/typescript/BOJ2309.ts)
 |1764|[듣보잡](https://www.acmicpc.net/problem/1764) | [:white_check_mark:](algorithm/java/src/BOJ1764.java) | [:white_check_mark:](algorithm/python/BOJ1764.py) | [:white_check_mark:](algorithm/typescript/BOJ1764.ts)
