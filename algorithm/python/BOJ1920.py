@@ -1,3 +1,5 @@
+#  problem: https: // www.acmicpc.net/problem/1920
+
 dic = dict()
 N = int(input())
 list1 = list(map(int, input().split()))
