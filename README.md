@@ -6,6 +6,7 @@ Baekjoon Online Judge 문제 Solution
 
 |번호|문제|Java|Python|TypeScript|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
+|17471|[게리멘더링](https://www.acmicpc.net/problem/17471) | [:white_check_mark:](algorithm/java/src/BOJ17471.java) | [:white_check_mark:](algorithm/python/BOJ17471.py) | [:white_check_mark:](algorithm/typescript/BOJ17471.ts)
 |17219|[비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [:white_check_mark:](algorithm/java/src/BOJ17219.java) | [:white_check_mark:](algorithm/python/BOJ17219.py) | [:white_check_mark:](algorithm/typescript/BOJ17219.ts)
 |15657|[N과 M (8)](https://www.acmicpc.net/problem/15657) | [:white_check_mark:](algorithm/java/src/BOJ15657.java) | [:white_check_mark:](algorithm/python/BOJ15657.py) | [:white_check_mark:](algorithm/typescript/BOJ15657.ts)
 |15656|[N과 M (7)](https://www.acmicpc.net/problem/15656) | [:white_check_mark:](algorithm/java/src/BOJ15656.java) | [:white_check_mark:](algorithm/python/BOJ15656.py) | [:white_check_mark:](algorithm/typescript/BOJ15656.ts)
