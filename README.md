@@ -46,6 +46,7 @@ Baekjoon Online Judge 문제 Solution
 |1920|[수 찾기](https://www.acmicpc.net/problem/1920) | [:white_check_mark:](algorithm/java/src/BOJ1920.java) | [:white_check_mark:](algorithm/python/BOJ1920.py) | [:white_check_mark:](algorithm/typescript/BOJ1920.ts)
 |1764|[듣보잡](https://www.acmicpc.net/problem/1764) | [:white_check_mark:](algorithm/java/src/BOJ1764.java) | [:white_check_mark:](algorithm/python/BOJ1764.py) | [:white_check_mark:](algorithm/typescript/BOJ1764.ts)
 |1620|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [:white_check_mark:](algorithm/java/src/BOJ1620.java) | [:white_check_mark:](algorithm/python/BOJ1620.py) | [:white_check_mark:](algorithm/typescript/BOJ1620.ts)
+|1546|[평균](https://www.acmicpc.net/problem/1546) | [:white_check_mark:](algorithm/java/src/BOJ1546.java) | [:white_check_mark:](algorithm/python/BOJ1546.py) | [:white_check_mark:](algorithm/typescript/BOJ1546.ts)
 |1330|[두 수 비교하기](https://www.acmicpc.net/problem/1330) | [:white_check_mark:](algorithm/java/src/BOJ1330.java) | [:white_check_mark:](algorithm/python/BOJ1330.py) | [:white_check_mark:](algorithm/typescript/BOJ1330.ts)
 |1260|[DFS와 BFS](https://www.acmicpc.net/problem/1260) | [:white_check_mark:](algorithm/java/src/BOJ1260.java) | [:white_check_mark:](algorithm/python/BOJ1260.py) | [:white_check_mark:](algorithm/typescript/BOJ1260.ts)
 |1026|[보물](https://www.acmicpc.net/problem/1026) | [:white_check_mark:](algorithm/java/src/BOJ1026.java) | [:white_check_mark:](algorithm/python/BOJ1026.py) | [:white_check_mark:](algorithm/typescript/BOJ1026.ts)
