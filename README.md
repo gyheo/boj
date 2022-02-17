@@ -49,6 +49,7 @@ Baekjoon Online Judge 문제 Solution.
 |1157|[단어 공부](https://www.acmicpc.net/problem/1157) | [:white_check_mark:](algorithm/java/src/BOJ1157.java) | [:white_check_mark:](algorithm/python/BOJ1157.py) | [:white_check_mark:](algorithm/typescript/BOJ1157.ts)
 |1546|[평균](https://www.acmicpc.net/problem/1546) | [:white_check_mark:](algorithm/java/src/BOJ1546.java) | [:white_check_mark:](algorithm/python/BOJ1546.py) | [:white_check_mark:](algorithm/typescript/BOJ1546.ts)
 |1330|[두 수 비교하기](https://www.acmicpc.net/problem/1330) | [:white_check_mark:](algorithm/java/src/BOJ1330.java) | [:white_check_mark:](algorithm/python/BOJ1330.py) | [:white_check_mark:](algorithm/typescript/BOJ1330.ts)
+|1152|[단어의 개수](https://www.acmicpc.net/problem/1152) | [:white_check_mark:](algorithm/java/src/BOJ1152.java) | [:white_check_mark:](algorithm/python/BOJ1152.py) | [:white_check_mark:](algorithm/typescript/BOJ1152.ts)
 |1260|[DFS와 BFS](https://www.acmicpc.net/problem/1260) | [:white_check_mark:](algorithm/java/src/BOJ1260.java) | [:white_check_mark:](algorithm/python/BOJ1260.py) | [:white_check_mark:](algorithm/typescript/BOJ1260.ts)
 |1026|[보물](https://www.acmicpc.net/problem/1026) | [:white_check_mark:](algorithm/java/src/BOJ1026.java) | [:white_check_mark:](algorithm/python/BOJ1026.py) | [:white_check_mark:](algorithm/typescript/BOJ1026.ts)
 |1008|[A/B](https://www.acmicpc.net/problem/1008) | [:white_check_mark:](algorithm/java/src/BOJ1008.java) | [:white_check_mark:](algorithm/python/BOJ1008.py) | [:white_check_mark:](algorithm/typescript/BOJ1008.ts)
