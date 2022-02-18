@@ -1,14 +1,16 @@
 // problem : https://www.acmicpc.net/problem/1157
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class BOJ1157 {
     static int[] alphabet;
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        String str = sc.nextLine();
+        String str = br.readLine();
         str = str.toUpperCase();
         alphabet = new int[26];
         for (int i = 0, size = str.length(); i < size; i++) {
@@ -16,22 +18,24 @@ public class BOJ1157 {
         }
         // System.out.println(Arrays.toString(alphabet));
 
-        int max = Integer.MIN_VALUE, index = 0;
-        boolean flag = false;
+        int maxValue = Integer.MIN_VALUE;
+        int maxIndex = -1;
+
         for (int i = 0; i < alphabet.length; i++) {
-            if (max < alphabet[i]) {
-                max = alphabet[i];
-                index = i;
-                flag = true;
-            } else if (max == alphabet[i]) {
-                flag = false;
+            if (maxValue < alphabet[i]) {
+                maxValue = alphabet[i];
+                maxIndex = i;
             }
         }
 
-        char result = Character.toUpperCase((char) (index + 'A'));
+        char result = (char)('A' + maxIndex);
 
-        if (!flag)
-            result = '?';
+        for (int i = 0; i < alphabet.length; i++) {
+            if (i != maxIndex && maxValue <= alphabet[i]) {
+                result = '?';
+                break;
+            }
+        }
 
         System.out.println(result);
     }
