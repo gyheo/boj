@@ -31,6 +31,7 @@ Baekjoon Online Judge 문제 Solution.
 |10816|[숫자 카드 2](https://www.acmicpc.net/problem/10816) | [:white_check_mark:](algorithm/java/src/BOJ10816.java) | [:white_check_mark:](algorithm/python/BOJ10816.py) | [:white_check_mark:](algorithm/typescript/BOJ10816.ts)
 |10815|[숫자 카드](https://www.acmicpc.net/problem/10815) | [:white_check_mark:](algorithm/java/src/BOJ10815.java) | [:white_check_mark:](algorithm/python/BOJ10815.py) | [:white_check_mark:](algorithm/typescript/BOJ10815.ts)
 |8958|[OX퀴즈](https://www.acmicpc.net/problem/8958) | [:white_check_mark:](algorithm/java/src/BOJ8958.java) | [:white_check_mark:](algorithm/python/BOJ8958.py) | [:white_check_mark:](algorithm/typescript/BOJ8958.ts)
+|3052|[나머지](https://www.acmicpc.net/problem/3052) | [:white_check_mark:](algorithm/java/src/BOJ3052.java) | [:white_check_mark:](algorithm/python/BOJ3052.py) | [:white_check_mark:](algorithm/typescript/BOJ3052.ts)
 |3040|[백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [:white_check_mark:](algorithm/java/src/BOJ3040.java) | [:white_check_mark:](algorithm/python/BOJ3040.py) | [:white_check_mark:](algorithm/typescript/BOJ3040.ts)
 |2751|[수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [:white_check_mark:](algorithm/java/src/BOJ2751.java) | [:white_check_mark:](algorithm/python/BOJ2751.py) | [:white_check_mark:](algorithm/typescript/BOJ2751.ts)
 |2750|[수 정렬하기](https://www.acmicpc.net/problem/2750) | [:white_check_mark:](algorithm/java/src/BOJ2750.java) | [:white_check_mark:](algorithm/python/BOJ2750.py) | [:white_check_mark:](algorithm/typescript/BOJ2750.ts)
