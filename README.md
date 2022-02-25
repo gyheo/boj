@@ -34,6 +34,7 @@ Baekjoon Online Judge 문제 Solution.
 |8958|[OX퀴즈](https://www.acmicpc.net/problem/8958) | [:white_check_mark:](algorithm/java/src/BOJ8958.java) | [:white_check_mark:](algorithm/python/BOJ8958.py) | [:white_check_mark:](algorithm/typescript/BOJ8958.ts)
 |3052|[나머지](https://www.acmicpc.net/problem/3052) | [:white_check_mark:](algorithm/java/src/BOJ3052.java) | [:white_check_mark:](algorithm/python/BOJ3052.py) | [:white_check_mark:](algorithm/typescript/BOJ3052.ts)
 |3040|[백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [:white_check_mark:](algorithm/java/src/BOJ3040.java) | [:white_check_mark:](algorithm/python/BOJ3040.py) | [:white_check_mark:](algorithm/typescript/BOJ3040.ts)
+|2908|[상수](https://www.acmicpc.net/problem/2908) | [:white_check_mark:](algorithm/java/src/BOJ2908.java) | [:white_check_mark:](algorithm/python/BOJ2908.py) | [:white_check_mark:](algorithm/typescript/BOJ2908.ts)
 |2751|[수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [:white_check_mark:](algorithm/java/src/BOJ2751.java) | [:white_check_mark:](algorithm/python/BOJ2751.py) | [:white_check_mark:](algorithm/typescript/BOJ2751.ts)
 |2750|[수 정렬하기](https://www.acmicpc.net/problem/2750) | [:white_check_mark:](algorithm/java/src/BOJ2750.java) | [:white_check_mark:](algorithm/python/BOJ2750.py) | [:white_check_mark:](algorithm/typescript/BOJ2750.ts)
 |2742|[기찍 N](https://www.acmicpc.net/problem/2742) | [:white_check_mark:](algorithm/java/src/BOJ2742.java) | [:white_check_mark:](algorithm/python/BOJ2742.py) | [:white_check_mark:](algorithm/typescript/BOJ2742.ts)
