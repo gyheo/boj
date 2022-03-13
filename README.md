@@ -56,6 +56,7 @@ Baekjoon Online Judge 문제 Solution.
 |2439|[별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [:white_check_mark:](algorithm/java/src/BOJ2439.java) | [:white_check_mark:](algorithm/python/BOJ2439.py) | [:white_check_mark:](algorithm/typescript/BOJ2439.ts)
 |2438|[별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [:white_check_mark:](algorithm/java/src/BOJ2438.java) | [:white_check_mark:](algorithm/python/BOJ2438.py) | [:white_check_mark:](algorithm/typescript/BOJ2438.ts)
 |2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [:white_check_mark:](algorithm/java/src/BOJ2309.java) | [:white_check_mark:](algorithm/python/BOJ2309.py) | [:white_check_mark:](algorithm/typescript/BOJ2309.ts)
+|2164|[카드2](https://www.acmicpc.net/problem/2164) | [:white_check_mark:](algorithm/java/src/BOJ2164.java) | [:white_check_mark:](algorithm/python/BOJ2164.py) | [:white_check_mark:](algorithm/typescript/BOJ2164.ts)
 |1920|[수 찾기](https://www.acmicpc.net/problem/1920) | [:white_check_mark:](algorithm/java/src/BOJ1920.java) | [:white_check_mark:](algorithm/python/BOJ1920.py) | [:white_check_mark:](algorithm/typescript/BOJ1920.ts)
 |1764|[듣보잡](https://www.acmicpc.net/problem/1764) | [:white_check_mark:](algorithm/java/src/BOJ1764.java) | [:white_check_mark:](algorithm/python/BOJ1764.py) | [:white_check_mark:](algorithm/typescript/BOJ1764.ts)
 |1620|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [:white_check_mark:](algorithm/java/src/BOJ1620.java) | [:white_check_mark:](algorithm/python/BOJ1620.py) | [:white_check_mark:](algorithm/typescript/BOJ1620.ts)
