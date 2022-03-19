@@ -11,6 +11,7 @@ public class BOJ2309 {
 
     static int[] dwarfHeight = new int[TOTAL];
     static int[] output = new int[OUTPUT_LENGTH];
+    static boolean isAnswer = true; // 여러 정답 중 한 번만 출력할 수 있도록 조건 추가
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -30,10 +31,12 @@ public class BOJ2309 {
                 heightSum += output[i];
             }
 
-            if (heightSum == HEIGHT_SUM) {
+            if (heightSum == HEIGHT_SUM && isAnswer) {
+                isAnswer = false;
+
                 Arrays.sort(output);
-                for (int i = 0; i < OUTPUT_LENGTH; i++) {
-                    System.out.println(output[i]);
+                for (int height : output) {
+                    System.out.println(height);
                 }
             }
 
