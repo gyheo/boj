@@ -5,7 +5,7 @@ Baekjoon Online Judge 문제 Solution.
 ## 목록
 
 |번호|문제|Java|Python|TypeScript|비고|
-| ------ | ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | :------: | :------: | :------: | ------ |
 |17471|[게리멘더링](https://www.acmicpc.net/problem/17471) | [:white_check_mark:](algorithm/java/src/BOJ17471.java) | [:white_check_mark:](algorithm/python/BOJ17471.py) | [:white_check_mark:](algorithm/typescript/BOJ17471.ts)
 |17219|[비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [:white_check_mark:](algorithm/java/src/BOJ17219.java) | [:white_check_mark:](algorithm/python/BOJ17219.py) | [:white_check_mark:](algorithm/typescript/BOJ17219.ts)
 |15657|[N과 M (8)](https://www.acmicpc.net/problem/15657) | [:white_check_mark:](algorithm/java/src/BOJ15657.java) | [:white_check_mark:](algorithm/python/BOJ15657.py) | [:white_check_mark:](algorithm/typescript/BOJ15657.ts)
@@ -29,8 +29,8 @@ Baekjoon Online Judge 문제 Solution.
 |10950|[A+B - 3](https://www.acmicpc.net/problem/10950) | [:white_check_mark:](algorithm/java/src/BOJ10950.java) | [:white_check_mark:](algorithm/python/BOJ10950.py) | [:white_check_mark:](algorithm/typescript/BOJ10950.ts)
 |10871|[X보다 작은 수](https://www.acmicpc.net/problem/10871) | [:white_check_mark:](algorithm/java/src/BOJ10871.java) | [:white_check_mark:](algorithm/python/BOJ10871.py) | [:white_check_mark:](algorithm/typescript/BOJ10871.ts)
 |10869|[사칙연산](https://www.acmicpc.net/problem/10869) | [:white_check_mark:](algorithm/java/src/BOJ10869.java) | [:white_check_mark:](algorithm/python/BOJ10869.py) | [:white_check_mark:](algorithm/typescript/BOJ10869.ts)
-|10866|[덱](https://www.acmicpc.net/problem/10866) | [:white_check_mark:](algorithm/java/src/BOJ10866.java) | [:white_check_mark:](algorithm/python/BOJ10866.py) | [:white_check_mark:](algorithm/typescript/BOJ10866.ts)
 |10867|[중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) | [:white_check_mark:](algorithm/java/src/BOJ10867.java) | [:white_check_mark:](algorithm/python/BOJ10867.py) | [:white_check_mark:](algorithm/typescript/BOJ10867.ts)
+|10866|[덱](https://www.acmicpc.net/problem/10866) | [:white_check_mark:](algorithm/java/src/BOJ10866.java) | [:white_check_mark:](algorithm/python/BOJ10866.py) | [:white_check_mark:](algorithm/typescript/BOJ10866.ts)
 |10845|[큐](https://www.acmicpc.net/problem/10845) | [:white_check_mark:](algorithm/java/src/BOJ10845.java) | [:white_check_mark:](algorithm/python/BOJ10845.py) | [:white_check_mark:](algorithm/typescript/BOJ10845.ts)
 |10828|[스택](https://www.acmicpc.net/problem/10828) | [:white_check_mark:](algorithm/java/src/BOJ10828.java) | [:white_check_mark:](algorithm/python/BOJ10828.py) | [:white_check_mark:](algorithm/typescript/BOJ10828.ts)
 |10818|[최소, 최대](https://www.acmicpc.net/problem/10818) | [:white_check_mark:](algorithm/java/src/BOJ10818.java) | [:white_check_mark:](algorithm/python/BOJ10818.py) | [:white_check_mark:](algorithm/typescript/BOJ10818.ts)
@@ -44,8 +44,8 @@ Baekjoon Online Judge 문제 Solution.
 |3040|[백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [:white_check_mark:](algorithm/java/src/BOJ3040.java) | [:white_check_mark:](algorithm/python/BOJ3040.py) | [:white_check_mark:](algorithm/typescript/BOJ3040.ts)
 |2920|[음계](https://www.acmicpc.net/problem/2920) | [:white_check_mark:](algorithm/java/src/BOJ2920.java) | [:white_check_mark:](algorithm/python/BOJ2920.py) | [:white_check_mark:](algorithm/typescript/BOJ2920.ts)
 |2798|[블랙잭](https://www.acmicpc.net/problem/2798) | [:white_check_mark:](algorithm/java/src/BOJ2798.java) | [:white_check_mark:](algorithm/python/BOJ2798.py) | [:white_check_mark:](algorithm/typescript/BOJ2798.ts)
-|2739|[구구단](https://www.acmicpc.net/problem/2739) | [:white_check_mark:](algorithm/java/src/BOJ2739.java) | [:white_check_mark:](algorithm/python/BOJ2739.py) | [:white_check_mark:](algorithm/typescript/BOJ2739.ts)
 |2908|[상수](https://www.acmicpc.net/problem/2908) | [:white_check_mark:](algorithm/java/src/BOJ2908.java) | [:white_check_mark:](algorithm/python/BOJ2908.py) | [:white_check_mark:](algorithm/typescript/BOJ2908.ts)
+|2739|[구구단](https://www.acmicpc.net/problem/2739) | [:white_check_mark:](algorithm/java/src/BOJ2739.java) | [:white_check_mark:](algorithm/python/BOJ2739.py) | [:white_check_mark:](algorithm/typescript/BOJ2739.ts)
 |2751|[수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [:white_check_mark:](algorithm/java/src/BOJ2751.java) | [:white_check_mark:](algorithm/python/BOJ2751.py) | [:white_check_mark:](algorithm/typescript/BOJ2751.ts)
 |2750|[수 정렬하기](https://www.acmicpc.net/problem/2750) | [:white_check_mark:](algorithm/java/src/BOJ2750.java) | [:white_check_mark:](algorithm/python/BOJ2750.py) | [:white_check_mark:](algorithm/typescript/BOJ2750.ts)
 |2742|[기찍 N](https://www.acmicpc.net/problem/2742) | [:white_check_mark:](algorithm/java/src/BOJ2742.java) | [:white_check_mark:](algorithm/python/BOJ2742.py) | [:white_check_mark:](algorithm/typescript/BOJ2742.ts)
