@@ -51,6 +51,7 @@ Baekjoon Online Judge 문제 Solution.
 |2741|[N 찍기](https://www.acmicpc.net/problem/2741) | [:white_check_mark:](algorithm/java/src/BOJ2741.java) | [:white_check_mark:](algorithm/python/BOJ2741.py) | [:white_check_mark:](algorithm/typescript/BOJ2741.ts)
 |2739|[구구단](https://www.acmicpc.net/problem/2739) | [:white_check_mark:](algorithm/java/src/BOJ2739.java) | [:white_check_mark:](algorithm/python/BOJ2739.py) | [:white_check_mark:](algorithm/typescript/BOJ2739.ts)
 |2675|[문자열 반복](https://www.acmicpc.net/problem/2675) | [:white_check_mark:](algorithm/java/src/BOJ2675.java) | [:white_check_mark:](algorithm/python/BOJ2675.py) | [:white_check_mark:](algorithm/typescript/BOJ2675.ts)
+|2667|[단지번호 붙이기](https://www.acmicpc.net/problem/BOJ2667) | [:white_check_mark:](algorithm/java/src/BOJ2667.java) | [:white_check_mark:](algorithm/python/BOJ2667.py) | [:white_check_mark:](algorithm/typescript/BOJ2667.ts)
 |2577|[숫자의 개수](https://www.acmicpc.net/problem/2577) | [:white_check_mark:](algorithm/java/src/BOJ2577.java) | [:white_check_mark:](algorithm/python/BOJ2577.py) | [:white_check_mark:](algorithm/typescript/BOJ2577.ts)
 |2562|[최댓값](https://www.acmicpc.net/problem/2562) | [:white_check_mark:](algorithm/java/src/BOJ2562.java) | [:white_check_mark:](algorithm/python/BOJ2562.py) | [:white_check_mark:](algorithm/typescript/BOJ2562.ts)
 |2558|[A+B - 2](https://www.acmicpc.net/problem/2558) | [:white_check_mark:](algorithm/java/src/BOJ2558.java) | [:white_check_mark:](algorithm/python/BOJ2558.py) | [:white_check_mark:](algorithm/typescript/BOJ2558.ts)
