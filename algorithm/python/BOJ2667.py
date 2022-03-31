@@ -7,14 +7,14 @@ grid = list()
 answer = list()
 visited = list()
 count = 1
-for i in range(0, N):
-    row = list(map(int, sys.stdin.readline().rstrip()))
-    visit_row = [False] * N
-    grid.append(row)
-    visited.append(visit_row)
-
 dx = [-1, 1, 0, 0]
 dy = [0, 0, -1, 1]
+
+for i in range(0, N):
+    grid_row = list(map(int, sys.stdin.readline().rstrip()))
+    visit_row = [False] * N
+    grid.append(grid_row)
+    visited.append(visit_row)
 
 
 def dfs(x: int, y: int):
