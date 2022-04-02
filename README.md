@@ -41,6 +41,7 @@ Baekjoon Online Judge 문제 Solution
 |8958|[OX퀴즈](https://www.acmicpc.net/problem/8958) | [:white_check_mark:](algorithm/java/src/BOJ8958.java) | [:white_check_mark:](algorithm/python/BOJ8958.py) | [:white_check_mark:](algorithm/typescript/BOJ8958.ts)
 |4153|[직각삼각형](https://www.acmicpc.net/problem/4153) | [:white_check_mark:](algorithm/java/src/4153.java) | [:white_check_mark:](algorithm/python/4153.py) | [:white_check_mark:](algorithm/typescript/4153.ts)
 |3052|[나머지](https://www.acmicpc.net/problem/3052) | [:white_check_mark:](algorithm/java/src/BOJ3052.java) | [:white_check_mark:](algorithm/python/BOJ3052.py) | [:white_check_mark:](algorithm/typescript/BOJ3052.ts)
+|3046|[R2](https://www.acmicpc.net/problem/3046) | [:white_check_mark:](algorithm/java/src/BOJ3046.java) | [:white_check_mark:](algorithm/python/BOJ3046.py) | [:white_check_mark:](algorithm/typescript/BOJ3046.ts)
 |3040|[백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [:white_check_mark:](algorithm/java/src/BOJ3040.java) | [:white_check_mark:](algorithm/python/BOJ3040.py) | [:white_check_mark:](algorithm/typescript/BOJ3040.ts)
 |2920|[음계](https://www.acmicpc.net/problem/2920) | [:white_check_mark:](algorithm/java/src/BOJ2920.java) | [:white_check_mark:](algorithm/python/BOJ2920.py) | [:white_check_mark:](algorithm/typescript/BOJ2920.ts)
 |2908|[상수](https://www.acmicpc.net/problem/2908) | [:white_check_mark:](algorithm/java/src/BOJ2908.java) | [:white_check_mark:](algorithm/python/BOJ2908.py) | [:white_check_mark:](algorithm/typescript/BOJ2908.ts)
